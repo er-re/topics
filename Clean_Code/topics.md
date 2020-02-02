@@ -111,7 +111,7 @@ create_menu(
     )
 )
 ``` 
-#### ***do you want to know some about @dataclass ?***
+### ***do you want to know some about @dataclass ?***
 https://realpython.com/python-data-classes/
 
 ### Functions should do one thing
@@ -141,7 +141,7 @@ def email_clients(clients: List[Client, ...]) -> None:
 
 Do you see an opportunity for using ***generators*** now?
 
-#####Erfan: function which returns a tuple can used as a iterator
+### `Er: function which returns a tuple can used as a iterator`
 
 **Even better**
 ```python
