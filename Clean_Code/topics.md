@@ -1,8 +1,8 @@
-##Some good snippets to remember 
+## Some good snippets to remember 
 
 <hr />
 
-######From *github:* [***clean-code-python***](https://github.com/zedr/clean-code-python) 
+###### From *github:* [***clean-code-python***](https://github.com/zedr/clean-code-python) 
 ## **Functions**
 ### Function arguments (2 or fewer ideally)
 Limiting the amount of function parameters is incredibly important because it makes 
