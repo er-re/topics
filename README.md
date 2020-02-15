@@ -13,8 +13,8 @@
 
 ### Linting
 1. *realpython:* [**Python Code Quality: Tools & Best Practices**](https://realpython.com/python-code-quality/)
-2. *medium.com:* [**Auto formatters for Python**](https://medium.com/3yourmind/auto-formatters-for-python-8925065f9505)
-3. *medium.com:* [**Keeping python code clean with pre-commit hooks: black, flake8 and isort**](https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1)
+2. *medium:* [**Auto formatters for Python**](https://medium.com/3yourmind/auto-formatters-for-python-8925065f9505)
+3. *medium:* [**Keeping python code clean with pre-commit hooks: black, flake8 and isort**](https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1)
 
 ### Test
 1. *realpython:* [**Getting Started With Testing in Python**](https://realpython.com/python-testing/)
@@ -24,8 +24,8 @@
 1. *patricksoftwareblog.com:* [**Software Development Checklist for Python Applications**](http://www.patricksoftwareblog.com/software-development-checklist-for-python-applications/) 
 
 ### Logging
-1. https://realpython.com/python-logging/
-2. https://www.machinelearningplus.com/python/python-logging-guide/
-3. https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
+1. *realpython* [**Logging in Python**](https://realpython.com/python-logging/)
+2. *machinelearningplus* [**Python Logging – Simplest Guide with Full Code and Examples**](https://www.machinelearningplus.com/python/python-logging-guide/)
+3. *fangpenlin* [**Good logging practice in Python**](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
 
 
