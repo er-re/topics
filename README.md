@@ -23,4 +23,9 @@
 ### comprehensive 
 1. *patricksoftwareblog.com:* [**Software Development Checklist for Python Applications**](http://www.patricksoftwareblog.com/software-development-checklist-for-python-applications/) 
 
+### Logging
+1. https://realpython.com/python-logging/
+2. https://www.machinelearningplus.com/python/python-logging-guide/
+3. https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
+
 
